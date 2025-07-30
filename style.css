@@ -45,6 +45,7 @@
     border-radius: 8px;
     transition: backgroung 0.3s;
     position: relative;
+    color: black;
 }
 
 .question::after {
