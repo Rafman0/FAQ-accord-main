@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Here's the link to my solution]()
-- Live Site URL: [link to my live site](https://your-live-site-url.com)
+- Solution URL: [Here's the link to my solution](https://rafman0.github.io/FAQ-accord-main/)
+- Live Site URL: [link to my live site](https://rafman0.github.io/FAQ-accord-main/)
 
 ### Built with
 
@@ -43,5 +43,5 @@ Learnt how to properly use flexbox and grid, and also the dropdown button.
 
 ## Author
 
-- Website - [Rafman](https://www.your-site.com)
+- Website - [Rafman](https://rafman0.github.io/FAQ-accord-main/)
 - Frontend Mentor - [@Abdulrafiu Mohammed](https://www.frontendmentor.io/profile/Abdulrafiu Mohammed)
